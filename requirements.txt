@@ -1,0 +1,6 @@
+jupyterlab==3.3.4
+nb-black==1.0.7
+pandas==1.4.2
+plotly==5.7.0
+ipywidgets==7.7.0
+yfinance==0.1.74
